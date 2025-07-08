@@ -4,7 +4,6 @@ Note: Some features may still be incomplete.
 A Vue CLI single-page app providing two interfaces:  
 
   - Public portal for browsing latest and most-read articles, filtering by destination or activity, and viewing article details with comments.
-  - 
   - Secured CMS dashboard for managing destinations, articles, and user accounts.  
   Vue Router handles navigation and Axios fetches data from the backend. 
 
